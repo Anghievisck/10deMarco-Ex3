@@ -1,0 +1,68 @@
+1) Elaborar um programa que le um valor entre 0 e 999 e retorne escrito por extenso
+
+if(input < 20){
+switch (input){
+	case input = 0{
+	System.out.print("Zero");
+	}
+	case input = 1{
+	System.out.print(UU);
+	}
+	case input = 2{
+	System.out.print(UD);
+	}
+	case input = 3{
+	System.out.print(UT);
+	}
+	case input = 4{
+	System.out.print(UQ);
+	}
+	case input = 5{
+	System.out.print(UC);
+	}
+	case input = 6{
+	S ystem.out.print(USS);
+	}
+	case input = 7{
+	System.out.print(UST);
+	}
+	case input = 8{
+	System.out.print(UO);
+	}
+	case input = 9{
+	System.out.print(UN);
+	}
+	case input = 10{
+	System.out.print("dez");
+	}
+	case input = 11{
+	System.out.print("onze");
+	}
+	case input = 12{
+	System.out.print("doze");
+	}
+	...
+	case input = 19{
+	System.out.print("Dezenove");
+	}
+}
+}
+
+char U = input.charAT(3)
+if(U = 1){
+	
+}
+
+Zero, Um, Dois, Três, Quatro, Cinco, Seis, Sete, Oito, Nove, Dez, Onze, Doze, Treze, Catorze, Quinze, Dezesseis, Dezessete, Dezoito, Dezenove, Vinte, Trinta, Quarenta, Cinquenta, Sessenta, Setenta, Oitenta, Noventa,
+Cem, Cento, Duzentos, Trezentos, Quatrocentos, Quinheintos, Seiscentos, Setecentos, Novecentos.
+
+System.out.println(CN + " e " + DN + " e " + UN)
+
+
+2) Faça um programa que leia uma sequencia de números inteiros, se o usúario digitar um número negativo, o programa 
+deverá retornar a média dos números digitados sem o valor negativo.
+
+3) Escreva um programa que receba um número inteiro positivo "n" e retorne a soma dos "n" primeiros números inteiro. 
+Ex:
+	n = 5
+	1 + 2 + 3 + 4 + 5
