@@ -1,2 +1,4 @@
-# Atividades10deMarco
-Aula sobre Java onde fizemos três exercícios
+# Atividade 3
+
+Dupla: Pedro Luís Anghievisck
+       Luís Davi Gomes de Santana
