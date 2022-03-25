@@ -22,5 +22,7 @@ public class Ex3 {
         }while(j < n);
         
         System.out.println(j + "\n" + "= " + soma);
+         
+        // TODO code application logic here
     }  
 }
